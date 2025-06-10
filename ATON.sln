@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATON.WebApi", "ATON.WebApi\ATON.WebApi.csproj", "{9BAC8A5C-0B0C-4894-8FE2-DE3BFB6EF490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATON.Core", "ATON.Core\ATON.Core.csproj", "{975E0841-7E8C-48C1-B638-5D3727A60BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATON.DataAccess", "ATON.DataAccess\ATON.DataAccess.csproj", "{0AE5EA10-70FA-4CAF-9281-2877C1E8DAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAC8A5C-0B0C-4894-8FE2-DE3BFB6EF490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAC8A5C-0B0C-4894-8FE2-DE3BFB6EF490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAC8A5C-0B0C-4894-8FE2-DE3BFB6EF490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAC8A5C-0B0C-4894-8FE2-DE3BFB6EF490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975E0841-7E8C-48C1-B638-5D3727A60BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975E0841-7E8C-48C1-B638-5D3727A60BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975E0841-7E8C-48C1-B638-5D3727A60BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975E0841-7E8C-48C1-B638-5D3727A60BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE5EA10-70FA-4CAF-9281-2877C1E8DAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE5EA10-70FA-4CAF-9281-2877C1E8DAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE5EA10-70FA-4CAF-9281-2877C1E8DAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE5EA10-70FA-4CAF-9281-2877C1E8DAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

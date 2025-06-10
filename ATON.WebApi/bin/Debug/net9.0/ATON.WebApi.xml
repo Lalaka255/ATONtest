@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ATON.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:ATON.WebApi.Controllers.UsersController">
+            <summary>
+            Пользователи
+            </summary>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.CreateUser(ATON.WebApi.Models.UserModels.CreateUserRequestModel)">
+            <summary>
+            Создание пользователя
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.UpdateProfile(System.String,ATON.WebApi.Models.UserModels.UpdateProfileRequestModel)">
+            <summary>
+            Изменение имени, пола и даты рождения пользователя
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.ChangePassword(System.String,ATON.WebApi.Models.UserModels.ChangePasswordRequestModel)">
+            <summary>
+            Изменение пароля пользователя
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.ChangeLogin(System.String,ATON.WebApi.Models.UserModels.ChangeLoginRequestModel)">
+            <summary>
+            Изменение логина пользователя
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.GetAllActiveUsers">
+            <summary>
+            Запрос списка всех активных пользователей
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.GetUserByLogin(System.String)">
+            <summary>
+            Запрос пользователя по логину
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.Authenticate(ATON.WebApi.Models.AuthModels.LoginRequestModel)">
+            <summary>
+            Запрос пользователя по логину и паролю
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.GetUsersOlderThan(System.Int32)">
+            <summary>
+            Запрос всех пользователей старше определённого возраста
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.DeleteUser(System.String,System.Boolean)">
+            <summary>
+            Удаление пользователя по логину полное или мягкое
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ATON.WebApi.Controllers.UsersController.RestoreUser(System.String)">
+            <summary>
+            Восстановление пользователя
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

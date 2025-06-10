@@ -1,0 +1,15 @@
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\bin\Debug\net9.0\ATON.Core.deps.json
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\bin\Debug\net9.0\ATON.Core.dll
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\bin\Debug\net9.0\ATON.Core.pdb
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\bin\Debug\net9.0\ATON.DataAccess.dll
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\bin\Debug\net9.0\ATON.DataAccess.pdb
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ATON.Core.csproj.AssemblyReference.cache
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ATON.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ATON.Core.AssemblyInfoInputs.cache
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ATON.Core.AssemblyInfo.cs
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ATON.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ATON.Core.csproj.Up2Date
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ATON.Core.dll
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\refint\ATON.Core.dll
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ATON.Core.pdb
+C:\Users\Lalakich\RiderProjects\ATON\ATON.Core\obj\Debug\net9.0\ref\ATON.Core.dll

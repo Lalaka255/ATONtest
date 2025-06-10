@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UBXYwsWP6AK6eV3Xw/2sFH7M0mfbtp0eZUaRkRyXC7c=",
+  "Source": "ATON.WebApi",
+  "BasePath": "_content/ATON.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

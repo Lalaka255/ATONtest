@@ -1,0 +1,11 @@
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\bin\Debug\net9.0\ATON.DataAccess.deps.json
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\bin\Debug\net9.0\ATON.DataAccess.dll
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\bin\Debug\net9.0\ATON.DataAccess.pdb
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\obj\Debug\net9.0\ATON.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\obj\Debug\net9.0\ATON.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\obj\Debug\net9.0\ATON.DataAccess.AssemblyInfo.cs
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\obj\Debug\net9.0\ATON.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\obj\Debug\net9.0\ATON.DataAccess.dll
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\obj\Debug\net9.0\refint\ATON.DataAccess.dll
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\obj\Debug\net9.0\ATON.DataAccess.pdb
+C:\Users\Lalakich\RiderProjects\ATON\ATON.DataAccess\obj\Debug\net9.0\ref\ATON.DataAccess.dll
