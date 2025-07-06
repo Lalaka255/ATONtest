@@ -2,6 +2,8 @@ namespace ATON.DataAccess.Entities;
 
 public class User
 {
+    public Guid GuidID {get; set;}
+    
     public Guid Guid { get; set; }
 
     public string Login { get; set; } = null!;
